@@ -63,9 +63,9 @@ def logo():
         print merah+f.read()
         f.close
         print '---------------------------------------------------'
-        print cyan+' Author  : '+green+'RizzSploit '
-        print cyan+' Github  : '+green+'http://github.com/RizzSploit '
-        print cyan+' Youtube : '+green+'RizzSploit '
+        print cyan+' Author  : '+green+'mr ravanan '
+        print cyan+' Instagram  : '+green+'https://instagram.com/__mr_ravanan?igshid=nov3z9yhac9o '
+        print cyan+' Youtube : '+green+'mr ravanan '
         print putih+'---------------------------------------------------'
         print ''
 
